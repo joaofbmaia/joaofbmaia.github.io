@@ -10,7 +10,7 @@ locale                   : "en-IE"
 title                    : "João Maia"
 title_separator          : "-"
 name                     : &name "João Maia"
-description              : &description "personal description"
+description              : #&description "personal description"
 url                      : https://joaofbmaia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joaofbmaia/joaofbmaia.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "João Maia"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : #"Your biography for the left-hand sidebar"
+  location         : "Lisbon"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/joaofbmaia/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
