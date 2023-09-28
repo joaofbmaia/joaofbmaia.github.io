@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: João Maia"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
