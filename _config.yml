@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-IE"
-title                    : "João Maia"
+title                    : ""
 title_separator          : "-"
 name                     : &name "João Maia"
 description              : #&description "personal description"
