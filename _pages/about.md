@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm João Maia, an MSc student in Electrical and Computer Engineering at Instituto Superior Técnico, Lisbon. I'm currently working on my thesis and conducting research at [INESC-ID](https://www.inesc-id.pt/member/26650/), with a focus on spatial accelerators and data-streaming applications.
+I'm an ASIC digital design engineer at [Synopsys](https://www.synopsys.com/) in Lisbon, working on production digital controller IPs.
 
-For the past three years, I've worked part-time as a Systems Administrator and did some HPC work.
+Before that, I spent two and a half years at [INESC-ID](https://www.inesc-id.pt/) designing a reconfigurable stream-driven accelerator integrated into a RISC-V SoC. That work became my master's thesis and a [first-author paper at ISCAS 2025](https://ieeexplore.ieee.org/document/11043244/). The hardware ([BubbleTea](https://github.com/joaofbmaia/bubbletea)) and compiler ([StreamFlow](https://github.com/joaofbmaia/streamflow)) are open source.
 
-I'm doing my thesis on "Data-streaming support on Gemmini tensor architecture" advised by [Prof. Nuno Roma](http://hpcas.inesc-id.pt/~nfvr) and [Prof. Pedro Tomás](https://www.linkedin.com/in/pedrotomas).
-
-Email: joao@joaomaia.com
+I studied Electrical and Computer Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), Lisbon.
