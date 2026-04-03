@@ -14,4 +14,4 @@ Before that, I spent two and a half years at [INESC-ID](https://www.inesc-id.pt/
 
 I studied Electrical and Computer Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), Lisbon.
 
-I like building things and taking other things apart. Currently addicted to [Claude Code](https://claude.ai/code).
+I like building things and taking other things apart. Currently addicted to Claude 👀
